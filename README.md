@@ -6,7 +6,7 @@
 > ```python
 > print "2hs de Python"
 > ```
-> [Link aula Penteste](https://TeuLinkOffjah.IO)
+> [Link aula Python](https://TeuLinkOffjah.IO)
 
 > ```python
 > print "Resto da manhã Bug Bounty"
