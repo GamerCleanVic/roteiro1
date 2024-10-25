@@ -34,6 +34,6 @@
 > ```php
 > echo "-Subir vídeos do curso para hospedagem/Panda/vender no Hotmart"
 > ```
-> [Link Panda Vídeos](https://www.pandavideo.com.br/)
+> [Link Panda Vídeos](https://www.pandavideo.com.br/) <br>
 > [Link Hotmart](https://hotmart.com/pt-br)
 >
